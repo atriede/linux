@@ -1,12 +1,12 @@
-# linux
-
 # Void Linux Installation
 
-# First Steps
-Git
+Update Packages
+    xbps -Syu
+    
 
-# Base Configs
-
+# Clone Repository
+Install `git`
+    git clone https://github.com/atriede/linux.git
 
 # Packages
 
